@@ -8,3 +8,5 @@ This is where the source code for the AraEdit editor application will be located
 
 ## Why is the source code open?
 So, why close it? This project can help enthusiasts and novice programmers implement their ideas. Moreover, it was created out of boredom, written in Python, and has an MIT license. Let the project bring a small but significant benefit by staying on GitHub and being improved from time to time.
+
+![Supported File Types](https://github.com/vberezinbadger/AraEdit/blob/main/.github/AraFilesSupport.png?raw=true)
