@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github.com/vberezinbadger/AraEdit/blob/master/.github/AraLoog.png?raw=true" alt="Description of image" /> </p>
+<p align="center"> <img src="https://github.com/vberezinbadger/AraEdit/blob/master/.github/AraLoog.png?raw=true" alt="Logotype of AraEdit" /> </p>
+<p align="center"> <img src="https://github.com/vberezinbadger/AraEdit/blob/master/.github/AraEditPreview.png?raw=true" alt="Demonstration screenshot of AraEdit" /> </p>
 
 <h1 align="center">AraEdit</h1>
 <h3 align="center">A powerful and feature-rich editor written in Python using PyQT6 and adapted for KDE</h3>
